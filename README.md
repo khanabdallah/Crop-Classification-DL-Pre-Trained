@@ -52,6 +52,6 @@ This project develops a crop classification model using deep learning and a pre-
 
 4.  **Run the Script:** Navigate to the directory containing the Python script and execute it:
     ```
-    python your_script_name.py
+    crop_classifier.py
     ```
     The script will start training the model and display the accuracy and loss plots after training is complete.
